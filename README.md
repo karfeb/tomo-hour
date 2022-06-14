@@ -1,4 +1,4 @@
-# wabot-aq
+# tomo-hour
 
 Simple WhatsApp Bot
 
@@ -13,7 +13,7 @@ apt install nodejs -y
 apt install ffmpeg -y
 apt install imagemagick -y
 git clone https://github.com/Nurutomo/wabot-aq
-cd wabot-aq
+cd tomo-hour
 npm install
 npm update
 ```
